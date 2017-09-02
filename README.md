@@ -1,4 +1,4 @@
-# ajax_filter
+# bitrix tests
 
 есть реализация:
 -фильтрация по ajax
