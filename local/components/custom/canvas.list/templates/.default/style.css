@@ -1,0 +1,24 @@
+.b-gallery__picture {
+}
+
+
+.b-gallery__item {
+	margin-bottom: 20px;
+	text-align: center;
+}
+.b-gallery__handle {
+	display: block;
+	text-align: center;
+}
+
+
+.b-picture {
+	position: relative;
+	display: block;
+	border: 1px solid #555;
+}
+
+.b-picture__image {
+	display: inline-block;
+	max-width: 100%;
+}
