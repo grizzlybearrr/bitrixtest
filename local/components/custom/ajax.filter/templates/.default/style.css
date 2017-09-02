@@ -1,0 +1,34 @@
+.b-filter {
+  position: relative;
+  max-width: 600px;
+  padding: 15px;
+  margin: 15px 0;
+  background: #c7c7a5;
+}
+
+.b-filter__param {
+  position: relative;
+  display: flex;
+  margin-bottom: 20px;
+} 
+
+.b-filter__param-name {
+  flex: 1 1;
+} 
+
+.b-filter__param-value {
+  flex: 1 1;
+}
+
+.b-filter__result {
+  background: #fff;
+}
+
+.b-filter__result table {
+  border-collapse: collapse;
+}
+
+.b-filter__result th {
+  text-align: center;
+  background: #ccc;
+} 
